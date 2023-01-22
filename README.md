@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com]
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-component-using-tailwind-v3-33MweiqWY0]
 - Live Site URL: [https://maciej-kalisz.github.io/3ColumnPreview/]
 
 ## My process
